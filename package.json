@@ -1,0 +1,30 @@
+{
+  "name": "rmmz_backend_express",
+  "version": "1.0.0",
+  "description": "Backend de una aplicacion movil",
+  "keywords": [
+    "backend",
+    "express",
+    "rodrigo",
+    "maradiaga"
+  ],
+  "homepage": "https://github.com/RodrigoMZ7/rmmz_backend_express#readme",
+  "bugs": {
+    "url": "https://github.com/RodrigoMZ7/rmmz_backend_express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoMZ7/rmmz_backend_express.git"
+  },
+  "license": "ISC",
+  "author": "Rodrigo Manuel Maradiaga Zarate",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
